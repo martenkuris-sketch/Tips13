@@ -12,5 +12,4 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tips13&show_icons=true&hide_border=true&theme=transparent" />
 
